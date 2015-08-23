@@ -1159,7 +1159,7 @@ ID BURLEY           KBYI  BYI          42 33N  113 46W 1264   X     T     A    6
 ID BONNERS FERRY    K65S  65S          48 44N  116 18W  713   X                8 US
 ID CALDWELL         KEUL  EUL          43 37N  116 37W  740   X                7 US
 ID CHALLIS          KLLJ  LLJ          44 31N  114 13W 1536   X           A    7 US
-ID COEUR D&#39;ALENE    KCOE  COE          47 46N  116 49W  707   X     T     W    4 US
+ID COEUR D'ALENE    KCOE  COE          47 46N  116 49W  707   X     T     W    4 US
 ID DRIGGS REED MEM  KDIJ  DIJ          43 45N  111 06W 1899   X                7 US
 ID DUBIOS (VOR)     KDBS  DBS          44 05N  112 13W 1638         V          8 US
 ID GRANGEVILLE      KGIC  GIC   72687  45 56N  116 08W 1009   X                7 US
@@ -1207,7 +1207,7 @@ IL CARMI MUNI       KCUL               38 05N  088 07W  118   X           W    7
 IL CENTRALIA        KENL  ENL          38 31N  089 06W  163   X           W    7 US
 IL CHAMPAIGN/URBANA KCMI  CMI          40 02N  088 16W  228   X     T     A    6 US
 IL CHICAGO          KMDW  MDW   72534  41 47N  087 45W  188   X     T     A    1 US
-IL CHICAGO O&#39;HARE   KORD  ORD   72530  41 59N  087 56W  200   X     U     A    0 US
+IL CHICAGO O'HARE   KORD  ORD   72530  41 59N  087 56W  200   X     U     A    0 US
 IL CHICAGO/AURORA   KARR  ARR   74465  41 46N  088 29W  215   X           A    7 US
 IL CHICAGO/DUPAGE   KDPA  DPA          41 55N  088 15W  231   X     T     A    6 US
 IL CHICAGO/MEIGS    KCGX  CGX          41 52N  087 35W  181   X                7 US
@@ -2286,7 +2286,7 @@ NE NELIGH PROFILER        NLG   74445  42 12N  097 47W  524            W       8
 NE NORFOLK          KOFK  OFK   72556  41 59N  097 26W  470   X     T     A    6 US
 NE NORTH OMAHA      KOVN  OVN   72553  41 22N  096 01W  406   X                8 US
 NE NORTH PLATTE     KLBF  LBF   72562  41 07N  100 40W  847   X     U  X  A  F 3 US
-NE O&#39;NEILL          KONL  ONL          42 28N  098 40W  619   X     V          6 US
+NE O'NEILL          KONL  ONL          42 28N  098 40W  619   X     V          6 US
 NE OFFUTT/AFWA      KGWC  GWC          41 07N  095 55W  319                    8 US
 NE OFFUTT AFB/BELLE KOFF  OFF   72554  41 07N  095 55W  319   X     T          4 US
 NE OGALLALA         KOGA  OGA          41 07N  101 46W  999   X                7 US
@@ -3365,7 +3365,7 @@ TX SEMINOLE 2N      XSMS               32 44N  102 38W 1010   X           M    9
 TX SLATON 2NE       XSLS               33 27N  101 37W  934   X           M    9 US
 TX ABERNATHY 5NE    XARS               33 53N  101 45W 1016   X           M    9 US
 TX OLTON 6S         XONS               34 06N  102 07W 1087   X           M    9 US
-TX O&#39;DONNELL 1N     XOES               32 59N  101 50W  931   X           M    9 US
+TX O'DONNELL 1N     XOES               32 59N  101 50W  931   X           M    9 US
 TX SEAGRAVES 1SW    XSGV               32 56N  102 34W 1024   X           M    9 US
 TX LAMESA 2SE       XLES               32 42N  101 56W  901   X           M    9 US
 TX HART 3N          XHRS               34 25N  102 06W 1126   X           M    9 US
@@ -4126,7 +4126,7 @@ NL CAPE RACE (MARS) CWRA  WRA   71800  46 38N  053 04W   28   X                7
 NL CARTWRIGHT       CWCA        71818  53 42N  057 01W   14   X                7 CA
 NL CARTWRIGHT       CYCA               53 41N  057 02W   12   X     T          6 CA
 NL CHURCHILL FALLS  CZUM  ZUM   71182  53 32N  064 05W  440   X     T          6 CA
-NL DANIEL&#39;S HARBOUR CWDH  WDH   71185  50 13N  057 34W   19   X                7 CA
+NL DANIEL'S HARBOUR CWDH  WDH   71185  50 13N  057 34W   19   X                7 CA
 NL DEER LAKE AIRPOR CYDF  YDF   71809  49 13N  057 24W   22   X     T          6 CA
 NL ENGLEE (MAPS)    CWDA  WDA   71417  50 43N  056 07W   29   X                7 CA
 NL FEROLLE PT. (MAP CWXI  WXI          51 01N  057 06W    6   X                7 CA
@@ -4139,7 +4139,7 @@ NL LA SCIE          CWAG        71337  49 55N  055 40W  192   X                8
 NL LONG POND        CWWU               47 31N  052 59W   13   X     T          8 CA
 NL MAKKOVIK AIRPORT CYFT  YFT          55 04N  059 10W   71   X                7 CA
 NL MARBLE MTN RADAR CXME               48 56N  057 50W    1      X             8 CA
-NL MARY&#39;S HARBOUR   CYMH  YMH          52 17N  055 51W   11   X     T          6 CA
+NL MARY'S HARBOUR   CYMH  YMH          52 17N  055 51W   11   X     T          6 CA
 NL NAIN AIRPORT     CYDP  YDP   71902  56 32N  061 40W    7   X     T          6 CA
 NL PORT AUX BASQUES CWZB  WZB   71197  47 34N  059 10W   40   X        Z       7 CA
 NL ROCKY HARBOUR    CXRH  XRH   71588  49 34N  057 53W   68   X                7 CA
@@ -4473,7 +4473,7 @@ QC BLANC SABLON ARP CYBX  YBX   71808  51 27N  057 10W   35   X     T          6
 QC BONNARD(AUTO)    CWKD  WKD   71383  50 44N  071 01W  497   X                7 CA
 QC BORDER (MAPS)    CWTB  WTB   71901  55 19N  063 13W  479   X                7 CA
 QC CAP CHAT (MAPS)  CWSG  WSG   71428  49 07N  066 39W    5   X                7 CA
-QC CAP D&#39;ESPOIR (MA CWRZ  WRZ   71429  48 25N  064 19W   16   X                7 CA
+QC CAP D'ESPOIR (MA CWRZ  WRZ   71429  48 25N  064 19W   16   X                7 CA
 QC CAP MADELEINE(MA CWSF  WSF   71425  49 15N  065 19W   29   X                7 CA
 QC CAP TOURMENTE    CWTN  WTN   71384  47 04N  070 47W    6   X                7 CA
 QC CHAMOUCHOUANE AU CWEE  WEE   71523  49 16N  073 20W  305   X                7 CA
@@ -4497,7 +4497,7 @@ QC ICE AUX GRUES    CWIG  WIG          47 04N  070 32W   18   X                7
 QC ICE AUX PERROQUE CWQR  WQR   71375  50 13N  064 13W    9   X                7 CA
 QC ILE BICQUETTE    CWQO  WQO   71385  48 25N  068 54W    1   X                7 CA
 QC ILE CHARRON      CWVZ  WVZ          45 35N  073 30W   12   X                7 CA
-QC ILE D&#39;ORLEANS(AU CWER  WER   71424  47 00N  070 49W    5   X                7 CA
+QC ILE D'ORLEANS(AU CWER  WER   71424  47 00N  070 49W    5   X                7 CA
 QC ILE ROUGE(MAPS)  CWAF  WAF   71426  48 04N  069 32W    5   X                7 CA
 QC ILES DE LA MADEL CYGR  YGR   71709  47 25N  061 46W   10   X     T          6 CA
 QC ILES-DE-LA-MADEL CWGR  WGR   71710  47 25N  061 48W   60   X                7 CA
@@ -4510,8 +4510,8 @@ QC KANGIQSUJUAQ(SAW CYKG  YKG          61 34N  071 55W  151   X                7
 QC KANGIRSUK (SAWR) CYAS  YAS          60 01N  070 00W  117   X                7 CA
 QC KUUJJUAQ AIRPORT CYVP  YVP   71906  58 07N  068 25W   60   X     T  X       5 CA
 QC KUUJJUARAPIK ARP CYGW  YGW   71905  55 16N  077 46W   12   X     T          6 CA
-QC L&#39;ACADIE         CWIZ  WIZ   71372  45 17N  073 20W   45   X                7 CA
-QC L&#39;ASSOMPTION     CWEW  WEW   71524  45 49N  073 26W   21   X                7 CA
+QC L'ACADIE         CWIZ  WIZ   71372  45 17N  073 20W   45   X                7 CA
+QC L'ASSOMPTION     CWEW  WEW   71524  45 49N  073 26W   21   X                7 CA
 QC LA BAIE          CWUX  WUX   71388  48 18N  070 56W  135   X                7 CA
 QC LA GRANDE III(SA CYAD  YAD          53 34N  076 12W  233   X                7 CA
 QC LA GRANDE IV ARP CYAH  YAH   71823  53 45N  073 40W  306   X     T  X       5 CA
@@ -4576,7 +4576,7 @@ QC TASIUJAQ A       CYTQ  YTQ          58 40N  069 57W   31   X     T          7
 QC TEMISCAMINQUE    CWBA        71732  46 43N  079 06W  181   X                7 CA
 QC TROIS RIVIERES   CWTY  WTY   71724  46 21N  072 31W    6   X                7 CA
 QC UMIUJAQ          CYMU  YMU          56 31N  076 31W   71   X                7 CA
-QC VAL D&#39;OR AIRPORT CYVO  YVO   71725  48 04N  077 46W  337   X     T          6 CA
+QC VAL D'OR AIRPORT CYVO  YVO   71725  48 04N  077 46W  337   X     T          6 CA
 QC VALCARTIER AIRPO CYOY  YOY   71716  46 53N  071 30W  168   X     T  Z       6 CA
 QC VARENNES         CWHM  WHM   71184  45 43N  073 22W  192   X                7 CA
 QC VILLEROY RADAR   CWVY  WVY   71616  46 27N  071 55W  108   X                7 CA
@@ -6514,7 +6514,7 @@ FRANCE             22-OCT-13
    ISTRES/LE TUBE F LFMI        07647  43 31N  004 55E   24   X     T          6 FR
    CARCASSONNE/SALV LFMK        07635  43 13N  002 19E  130   X     T          7 FR
    MARSEILLE/MARIGN LFML        07650  43 27N  005 13E   36   X     T          6 FR
-   NICE/COTE D&#39;AZUR LFMN        07690  43 38N  007 12E   10   X     T  X       6 FR
+   NICE/COTE D'AZUR LFMN        07690  43 38N  007 12E   10   X     T  X       6 FR
    ORANGE/CARITAT(F LFMO        07579  44 07N  004 52E   55   X     T          7 FR
    PERPIGNAN/RIVESA LFMP        07747  42 43N  002 52E   48   X     T          6 FR
    FREJORGUES/MONTP LFMT        07643  43 34N  003 58E    6   X     T          6 FR
@@ -6663,7 +6663,7 @@ HUNGARY            05-JUL-11
    BUDAPEST/FERIHEG LHBP        12839  47 25N  019 16E  185   X     T          6 HU
    DEBRECEN AIRPORT LHDC        12882  47 28N  021 37E  112   X     T          7 HU
    KECSKEMET        LHKE               46 55N  019 45E  115   X     T          7 HU
-   PAPA             LHPA               47 21N  017 30E  148   X     T          7 HU
+   PAPA             LHPA               47 21N  017 3%0E  148   X     T          7 HU
    PECS-POGANY      LHPP               45 59N  018 14E  305   X     T          7 HU
    GYOR             LHPR               47 38N  017 49E  129   X     T          8 HU
    BALATON          LHSM               46 41N  017 10E  125   X     T          8 HU
@@ -6676,7 +6676,7 @@ ITALY              19-AUG-13
    AMENDOLA (IT-AFB LIBA        16261  41 31N  015 43E   60   X     T          6 IT
    CROTONE          LIBC        16350  39 00N  017 04E  161   X     T          6 IT
    BARI/PALESE MACC LIBD        16270  41 07N  016 46E   44   X     T          6 IT
-   SANT&#39;ANGELO (MOU LIBE        16258  41 43N  015 57E  844   X                7 IT
+   SANT'ANGELO (MOU LIBE        16258  41 43N  015 57E  844   X                7 IT
    FOGGIA/GINO LISA LIBF               41 25N  015 31E   80   X     T          7 IT
    GROTTAGLIE(CIV/A LIBG        16324  40 31N  017 23E   69   X     T          6 IT
    MARINA DI GINOSA LIBH        16325  40 25N  016 52E   12   X                7 IT
@@ -7132,7 +7132,7 @@ GUINEA-BISSAU      27-DEC-01
    KISSIDOUGOU      GUKU        61834  09 10N  010 05W  525   X                7 GN
    LABE/TATA        GULB        61809  11 19N  012 18W 1026   X                7 GN
    MACENTA          GUMA        61847  08 31N  009 28W  544   X                7 GN
-   N&#39;ZEREKORE/KONIA GUNZ        61849  07 43N  008 49W  470   X                7 GN
+   N'ZEREKORE/KONIA GUNZ        61849  07 43N  008 49W  470   X                7 GN
    BOKE/BARALANDE   GUOK        61816  10 55N  014 19W   69   X                7 GN
    SIGUIRI          GUSI        61811  11 25N  009 10W  366   X                7 GN
    KANKAN/DIANKANA  GUXD        61829  10 22N  009 18W  384   X                7 GN
@@ -7270,7 +7270,7 @@ BURKINA FASO       27-DEC-01
    BOROMO           DFCO        65516  11 45N  002 55W  271   X                7 BF
    PO               DFCP        65518  11 09N  001 08W  322   X                7 BF
    DORI             DFEE        65501  14 01N  000 01W  277   X                7 BF
-   FADA N&#39;GOURMA    DFEF        65507  12 01N  000 22E  309   X                7 BF
+   FADA N'GOURMA    DFEF        65507  12 01N  000 22E  309   X                7 BF
    OUAGADOUGOU (MIL DFFD        65503  12 20N  001 31W  306   X     T          7 BF
    DEDOUGOU         DFOD        65505  12 28N  003 28W  300   X                7 BF
    GAOUA            DFOG        65522  10 19N  003 10W  335   X                7 BF
@@ -7297,7 +7297,7 @@ GHANA              27-DEC-01
    TAKORADI (AFB)   DGTK        65467  04 52N  001 46W    9   X     T          7 GH
    AXIM             DGTX        65465  04 52N  002 13W   40   X                7 GH
 
-COTE D&#39;IVOIRE      27-DEC-01
+COTE D'IVOIRE      27-DEC-01
    ADIAKE           DIAD        65585  05 17N  003 17W   39   X                7 CI
    ABIDJAN/PORT BOU DIAP        65578  05 15N  003 55W    8   X     T          6 CI
    BOUAKE (CIV/MIL) DIBK        65555  07 43N  005 04W  376   X     T          7 CI
@@ -7339,7 +7339,7 @@ NIGERIA            30-APR-13
    ZARIA            DNZA        65030  11 07N  007 40E  664   X                7 NG
 
 NIGER              27-DEC-01
-   BIRNI-N&#39;KONNI    DRRB        61075  13 48N  005 15E  273   X                7 NE
+   BIRNI-N'KONNI    DRRB        61075  13 48N  005 15E  273   X                7 NE
    GAYA             DRRG        61099  11 52N  003 27E  203   X                7 NE
    BILMA            DRRI        61017  18 40N  012 55E  357   X                7 NE
    TILLABERY        DRRL        61036  14 11N  001 26E  210   X                7 NE
@@ -7675,7 +7675,7 @@ SOUTH AFRICA       30-APR-13
    PRETORIA (MET)   FAPR        68262  25 43S  028 10E 1322   X                7 ZA
    POTCHEFSTROOM(SA FAPS        68351  26 40S  027 06E 1400   X                7 ZA
    QUEENSTOWN       FAQT        68648  31 53S  026 52E 1086   X                7 ZA
-   RICHARD&#39;S BAY    FARB        68498  28 48S  032 06E    0   X     T          7 ZA
+   RICHARD'S BAY    FARB        68498  28 48S  032 06E    0   X     T          7 ZA
    FARAULEP ISLAND  FARP        99446  08 16N  144 33E    2   Z                9 ZA
    RUNDU (MIL/CIV)  FARU               17 55S  019 46E 1100   Z                9 ZA
    SPRINGBOK        FASB        68512  29 40S  017 52E  990   X     T          6 ZA
@@ -7726,7 +7726,7 @@ CONGO, DEMOCRATIC  27-DEC-01
    BRAZZAVILLE/MAYA FCBB        64450  04 15S  015 15E  316   X     T          6 CG
    DJAMBALA         FCBD        64453  02 31S  014 46E  790   X                7 CG
    MOUYONDZI        FCBM        64402  03 58S  013 55E  512   X                7 CG
-   M&#39;POUYA          FCBO        64452  02 37S  016 13E  312   X                7 CG
+   M'POUYA          FCBO        64452  02 37S  016 13E  312   X                7 CG
    SIBITI           FCBS        64405  03 40S  013 20E  531   X                7 CG
    GAMBOMA          FCOG        64454  01 52S  015 52E  377   X                7 CG
    IMPFONDO         FCOI        64459  01 37N  018 04E  326   X                7 CG
@@ -7738,7 +7738,7 @@ CONGO, DEMOCRATIC  27-DEC-01
    POINTE-NOIRE     FCPP        64400  04 49S  011 54E   17   X     T          6 CG
 
 ZAIRE              27-DEC-01
-   KINSHASA/N&#39;DJILI FZAA        64210  04 23S  015 27E  312   X     T          6 CD
+   KINSHASA/N'DJILI FZAA        64210  04 23S  015 27E  312   X     T          6 CD
    MOANDA           FZAG        64201  06 00S  012 25E   27   X                7 CD
    KITONA (ZAI-AFB) FZAI        64203  05 55S  012 26E  120   X                7 CD
    MATADI/TSHIMPI   FZAM        64207  05 47S  013 25E  340   X                7 CD
@@ -7803,12 +7803,12 @@ SWAZILAND          30-APR-13
 CENTRAL AFRICAN RE 27-DEC-01
    ALINDAO          FEFA        64662  05 02N  021 11E  449   X                7 CF
    OBO              FEFB        64659  05 24N  026 30E  651   X                7 CF
-   BANGUI/M&#39;POKO (M FEFF        64650  04 24N  018 31E  366   X     T          6 CF
+   BANGUI/M'POKO (M FEFF        64650  04 24N  018 31E  366   X     T          6 CF
    BANGASSOU        FEFG        64656  04 43N  022 49E  500   X                7 CF
    BIRAO            FEFI        64658  10 16N  022 46E  464   X                7 CF
    BOSSEMBELE       FEFL        64605  05 16N  017 37E  674   X                7 CF
    BAMBARI          FEFM        64660  05 50N  020 38E  475   X                7 CF
-   N&#39;DELE           FEFN        64654  08 24N  020 38E  511   X                7 CF
+   N'DELE           FEFN        64654  08 24N  020 38E  511   X                7 CF
    BOUAR            FEFO        64601  05 58N  015 37E 1020   X                7 CF
    BRIA             FEFR        64655  06 31N  021 58E  584   X                7 CF
    BOSSANGOA        FEFS        64610  06 28N  017 25E  465   X                7 CF
@@ -7937,7 +7937,7 @@ ANGOLA             27-DEC-01
    PORTO AMBOIM     FNPA        66240  10 41S  013 45E    5   X                7 AO
    SAURIMO/HENRIQUE FNSA        66226  09 41S  020 26E 1093   X     T          7 AO
    WAKU KUNGU/CELA  FNWK        66270  11 25S  015 07E 1304   X                7 AO
-   N&#39;ZETO/AMBRIZETE FNZE        66130  07 13S  012 52E   17   X     T          7 AO
+   N'ZETO/AMBRIZETE FNZE        66130  07 13S  012 52E   17   X     T          7 AO
 
 GABON              27-DEC-01
    MOUILA CITY      FOGM        64550  01 52S  011 01E   89   X                7 GA
@@ -8256,10 +8256,10 @@ JORDAN             27-DEC-01
    AMMAN/KING ABDUL OJAM        40270  31 58N  035 58E  773   X     T          6 JO
    AQABA INTL AIRPO OJAQ        40340  29 37N  035 01E   51   X     T          6 JO
    IRBID (MET)      OJBD        40255  32 32N  035 51E  619   X                7 JO
-   HOTEL-5 &#39;SAFAWI&#39; OJHF        40260  32 12N  037 07E  670   X                7 JO
-   HOTEL-4 &#39;IRWAISH OJHR        40250  32 30N  038 12E  688   X                7 JO
+   HOTEL-5 'SAFAWI' OJHF        40260  32 12N  037 07E  670   X                7 JO
+   HOTEL-4 'IRWAISH OJHR        40250  32 30N  038 12E  688   X                7 JO
    MAFRAQ (JOR-AFB) OJMF        40265  32 22N  036 15E  687   X                7 JO
-   MA&#39;AN            OJMN        40310  30 10N  035 46E 1070   X                7 JO
+   MA'AN            OJMN        40310  30 10N  035 46E 1070   X                7 JO
 
 KUWAIT             27-DEC-01
    KUWAIT INTL (MIL OKBK        40582  29 13N  047 58E   55   X     T          6 KW
@@ -8375,9 +8375,9 @@ YEMEN              22-OCT-13
    MOKHA            OYMC        41477  13 15N  044 07E    3   X                7 YE
    MOKHA            OYMK        41382  13 19N  043 16E    3   X                7 YE
    RMUKALLA INTL    OYRN               14 40N  049 23E   17   X     T          6 YE
-   SA&#39;ADA/SADAH     OYSH               16 58N  043 43E 1890   X                7 YE
-   SANA&#39;A (CIV/MIL) OYSN        41344  15 29N  044 13E 2190   X     T          6 YE
-   SANA&#39;A                       41404  15 22N  044 12E 2190   X                6 YE
+   SA'ADA/SADAH     OYSH               16 58N  043 43E 1890   X                7 YE
+   SANA'A (CIV/MIL) OYSN        41344  15 29N  044 13E 2190   X     T          6 YE
+   SANA'A                       41404  15 22N  044 12E 2190   X                6 YE
    SOCOTRA ISLAND   OYSQ        41494  12 37N  053 53E   45   X                7 YE
    SAYUN            OYSY               15 58N  048 47E  701   X     T          7 YE
    TAIZ/GANED       OYTZ        41466  13 40N  044 07E 1385   X     T          6 YE
@@ -8446,7 +8446,7 @@ RUSSIAN FEDERATION 03-DEC-13
    EKIMCAN          UHBP        31329  53 04N  132 55E  543   X                7 RU
    KHABAROVSK/NOVY  UHHH        31735  48 31N  135 11E   72   X     T          6 RU
    TROICKOE         UHHO        31655  49 27N  136 34E   29   X                7 RU
-   ANADYR&#39;          UHMA        25563  64 44N  177 44E   62   X     T          6 RU
+   ANADYR'          UHMA        25563  64 44N  177 44E   62   X     T          6 RU
    PROVIDENJA BAY   UHMD        25594  64 23N  173 13W    3   X     T          7 RU
    CHAYBUKHA        UHMG               61 50N  160 33E    1   X                8 RU
    MYS SCHMIDTA     UHMI               68 54N  179 27W    1         T          8 RU
@@ -8483,7 +8483,7 @@ RUSSIAN FEDERATION 03-DEC-13
    PETROZAVODSK     ULPB               61 53N  034 09E   46   X     T          8 RU
    TALLINN          ULTT               59 21N  024 48E   44   Z                8 RU
    BOTOVO/CHEREPOVE ULWC        27113  59 17N  038 01E  115   X                7 RU
-   TOT&#39;MA           ULWT        27051  59 52N  042 45E  134   X                7 RU
+   TOT'MA           ULWT        27051  59 52N  042 45E  134   X                7 RU
    VOLOGDA          ULWW        27037  59 17N  039 56E  131   X     T          6 RU
    KALININGRAD      UMKK               54 53N  020 36E   21   X     T          6 RU
    ABAKAN           UNAA               53 45N  091 24E  245   X     T          6 RU
@@ -8538,7 +8538,7 @@ RUSSIAN FEDERATION 03-DEC-13
    MOSCOW/NOVOYE SR UUBW               55 33N  038 09E  115   X                8 RU
    MOSCOW/DOMODEDOV UUDD               55 24N  037 54E  168   X     T          8 RU
    YAROSLAV         UUDL               57 34N  040 10E   88   X     T          8 RU
-   MOSCOW/SHEREMET&#39; UUEE               55 58N  037 25E  190   X     T          6 RU
+   MOSCOW/SHEREMET' UUEE               55 58N  037 25E  190   X     T          6 RU
    KALININ/MIGALOVO UUEM        27402  56 49N  035 45E  143   X     T          6 RU
    OSTAFYEVO INTL   UUMO               55 31N  037 30E  174   X     T          8 RU
    BELGOROD         UUOB               50 39N  036 35E  224   X     T          8 RU
@@ -8565,18 +8565,18 @@ RUSSIAN FEDERATION 03-DEC-13
    VORKUTA          UUYW               67 29N  064 00E  185   X     T          8 RU
 
 UKRAINE            30-APR-13
-   BORISPOL&#39;/KIEV   UKBB        33347  50 20N  030 54E  119   X     T          6 UA
+   BORISPOL'/KIEV   UKBB        33347  50 20N  030 54E  119   X     T          6 UA
    DONETSK          UKCC               48 05N  037 45E  241   X     T          8 UA
    LUHANSK          UKCW               48 25N  039 23E  194   X     T          6 UA
    DNIPROPETROVSK   UKDD               48 22N  035 06E  149   X     T          8 UA
    MOKRAYA          UKDE  OZH          47 52N  035 19E  113   X     T          6 UA
    KRIVYY RIH       UKDR               48 03N  033 13E  124   X     T          6 UA
-   SIMFEROPOL&#39;      UKFF        33946  45 02N  033 59E  188   X     T          6 UA
-   HAR&#39;KOV/OSNOVA   UKHH        34300  49 55N  036 17E  155   X     T          6 UA
+   SIMFEROPOL'      UKFF        33946  45 02N  033 59E  188   X     T          6 UA
+   HAR'KOV/OSNOVA   UKHH        34300  49 55N  036 17E  155   X     T          6 UA
    CHERKASY         UKKE               49 25N  032 00E  114   X     T          6 UA
    KIEV/ZHYLIANY    UKKK               50 24N  030 27E  179   X     T          6 UA
    KIEV                         33345  50 24N  030 34E  167   S                6 UA
-   GOSTOMEL&#39;        UKKM               50 36N  030 12E  157   X     T          6 UA
+   GOSTOMEL'        UKKM               50 36N  030 12E  157   X     T          6 UA
    IVANO-FRANKIVSK  UKLI               48 53N  024 41E  280   X     T          8 UA
    LVIV             UKLL        33393  49 49N  023 56E  325   X     T          6 UA
    CHERNOVTSY       UKLN               48 16N  025 59E  252   X     T          6 UA
@@ -8660,7 +8660,7 @@ CHINA              30-APR-13
    HEDONG AIRPORT   ZLIC        53614  38 19N  106 24E 1112   X                7 CN
    JIUQUAN/SUZHOU   ZLJQ        52533  39 46N  098 28E 1478   X                7 CN
    LANZHOU          ZLLL        52889  36 31N  103 37E 1947   X     T          6 CN
-   XI&#39;AN            ZLSN        57036  34 17N  108 55E  398   X                7 CN
+   XI'AN            ZLSN        57036  34 17N  108 55E  398   X                7 CN
    XINING           ZLXN        52866  36 37N  101 46E 2262   X                7 CN
    XIANYANG         ZLXY               34 26N  108 45E  479   X     T          8 CN
    YAN AN           ZLYA        53845  36 36N  109 30E  959   X                7 CN
@@ -9136,7 +9136,7 @@ CAMBODIA           30-APR-13
 
 BANGLADESH         27-DEC-01
    BOGRA            VGBG        41883  24 51N  089 22E   20   X                7 BD
-   COX&#39;S BAZAR      VGCB        41992  21 25N  091 58E    4   X                7 BD
+   COX'S BAZAR      VGCB        41992  21 25N  091 58E    4   X                7 BD
    COMILLA          VGCM        41933  23 25N  091 10E   10   X                7 BD
    CHITTAGONG (CV/M VGEG        41978  22 16N  091 49E    6   X     T          7 BD
    DHAKA            VGHS        41922  23 51N  090 24E   10   X     T          6 BD
@@ -9266,7 +9266,7 @@ VIET NAM           03-DEC-13
    HUE/PHUBAI       VVPB        48852  16 23N  107 42E   17   X     T          7 VN
    PLEIKU CITY      VVPK        48866  13 58N  108 00E  801   X                7 VN
    PHU QUOC         VVPQ               10 14N  103 58E    4   X                7 VN
-   QUI NHO&#39;N        VVQN        48870  13 46N  109 13E    6   X                7 VN
+   QUI NHO'N        VVQN        48870  13 46N  109 13E    6   X                7 VN
    HO CHI MINH/TANS VVTS        48900  10 49N  106 40E   19   X     T          6 VN
    VINH             VVVH        48845  18 41N  105 40E    6   X                7 VN
    VUNG TAU         VVVT               10 22N  107 04E    4   X                7 VN
@@ -9682,8 +9682,8 @@ FIJI/TONGA/TUVALU  23-DEC-01
    MATEI/TAVEUNI IS NFNM        91665  16 40S  179 52E   21   X                7 FJ
    ROTUMA ISLAND    NFNR        91650  12 30S  177 03E   26   X                7 FJ
    SAVUSAVU AIRPORT NFNS        91663  16 49S  179 20E   13   X                7 FJ
-   HA&#39;APAI/LIFUKA I NFTL        91784  19 47S  174 20W    3   X     T          7 FJ
-   VAVA&#39;U ISLAND    NFTV        91780  18 35S  173 58W   71   X     T          7 FJ
+   HA'APAI/LIFUKA I NFTL        91784  19 47S  174 20W    3   X     T          7 FJ
+   VAVA'U ISLAND    NFTV        91780  18 35S  173 58W   71   X     T          7 FJ
    BERU ISLAND      NGBR        91623  01 21S  176 00E    3   X                7 FJ
    NANUMEA ISLAND   NGFO        91631  05 40S  176 07E    3   X                7 FJ
    ARORAE ISLAND    NGTR        91629  02 40S  176 49E    7   X                7 FJ
@@ -9699,7 +9699,7 @@ SAMOA/POLYNESIA    04-OCT-13
    TAHITI-FAAA POLY NTAA        91938  17 33S  149 37W    2   X     T          6 WS
    LA TONTOUTA NLLE NWWW        91590  22 01S  166 13E   16   X     T          6 WS
    APIA/UPOLU ISLAN NSAP        91762  13 49S  171 47W    2   X     T          7 WS
-   ASAU/SAVAI&#39;I ISL NSAU        91760  13 30S  172 37W    4   X                7 WS
+   ASAU/SAVAI'I ISL NSAU        91760  13 30S  172 37W    4   X                7 WS
    RURUTU ISLAND    NTAR        91950  22 25S  151 22W    3   X                7 WS
    TUBUAI ISLAND    NTAT        91954  23 21S  149 28W    3   X                7 WS
    REAO ISLAND      NTGE        91949  18 28S  136 28W    8   X                7 WS
